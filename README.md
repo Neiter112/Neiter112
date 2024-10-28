@@ -1,16 +1,22 @@
-## Hi there 👋
+###
 
-<!--
-**Neiter112/Neiter112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет👋 Меня зовут Роман!</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://t.me/Neiter1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VK logo"  />
+  </a>
+</div>
+
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я начинающий Fullstack веб-разработчик на JavaScript и PHP.  С октября 2024 года я начал изучать данное направление в онлайн школе Skillfactory . Мне очень нравитсся учиться чему-то новому. Очень надеюсь , что после прохождения курса смогу найти по настоящему любимую работу!
+
+
